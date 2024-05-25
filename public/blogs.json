@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co/VQLXMSL/create-your-own-brand-words-woman-working-laptop-background.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/TB7Ljvg/front-view-serious-office-worker-sitting-table.jpg",
+      "posted_date": "2024-05-10",
+      "reading_time": 12,
+      "hashtags": ["fantasy", "adventure", "magic"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co/9n97GBD/desk-office.jpg",
+      "title": "Urban Shadows",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/kXX8jc9/good-looking-young-man-stylish-black-hat-sitting-table-with-mobile-phone-mug.jpg",
+      "posted_date": "2024-05-15",
+      "reading_time": 8,
+      "hashtags": ["thriller", "citylife", "mystery"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co/k3JZFdF/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "Digital Dreams",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/kXX8jc9/good-looking-young-man-stylish-black-hat-sitting-table-with-mobile-phone-mug.jpg",
+      "posted_date": "2024-05-18",
+      "reading_time": 10,
+      "hashtags": ["technology", "future", "innovation"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co/xDfyBW6/flat-lay-notebook-with-headphones-desktop.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/GdQ7J5k/beautiful-woman-kimono.jpg",
+      "posted_date": "2024-05-20",
+      "reading_time": 9,
+      "hashtags": ["romance", "drama", "feelings"]
+    },
+    {
+      "id": "005",
+      "cover": "https://i.ibb.co/xDfyBW6/flat-lay-notebook-with-headphones-desktop.jpg",
+      "title": "Whispers in the Windg",
+      "author": "Laura Davis",
+      "author_img": "https://i.ibb.co/GdQ7J5k/beautiful-woman-kimono.jpg",
+      "posted_date": "2024-05-22",
+      "reading_time": 11,
+      "hashtags": ["exploration", "adventure", "selfdiscovery"]
+    }
+  ]
+  
